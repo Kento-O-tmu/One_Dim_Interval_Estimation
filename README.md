@@ -73,4 +73,6 @@ run_PEIE_addons_genericのフルオート拡張版を記述したプログラム
 PIT系×Coverage系のマルチパネル図やサマリーのcsvファイルを取得するプログラム．
 ## coverage.R
 compare_BCa_vs_othersの実行ファイル．
+## kentei_r.R
+通常の区間推定値における各種検定結果とカバレッジの値を取得するプログラム．
 ## そのほかがあれば今後記入します。
